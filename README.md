@@ -3,15 +3,8 @@
 
 #  Bitcoin Ticker
 
-## Our Goal
+## The Project
 
-The objective of this challenge is to apply the skills you learned in the Clima tutorial and make a Bitcoin price reporter. We are going to revisit how to use Cocoapods, networking calls and JSON parsing. This will be the most advanced challenge you will face to date. We believe in you!
+The objective of this challenge from The App Brewery iOS bootcamp was to apply the skills I learned and make a Bitcoin price reporter. The app gives the user the latest Bitcoin prices in all the popular, traded currencies, so they can track how well their Bitcoin investments are doing on the go. I used Cocoapods, networking calls and JSON parsing to make this small ticker app. I aslo deviated from the course to to make it more functional with month-to-date change in price as well as year-to-date change.
 
-## What you will create
-
-We’re going to make a Bitcoin price ticker. The app will give you the latest Bitcoin prices in all the popular, traded currencies, so you can track how well your Bitcoin investments are doing on the go.
-
-
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+![Preview of Completed Project](Documentation/preview.png)
